@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/root/FPGA-FFT/FFT/testbench_isim_beh.exe" -prj "/root/FPGA-FFT/FFT/testbench_beh.prj" "work.testbench" 
